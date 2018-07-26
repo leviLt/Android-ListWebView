@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadImage</string>
+    <string name="btn_load_list">加载图片列表</string>
+    <string name="natural">自然景物</string>
+</resources>
